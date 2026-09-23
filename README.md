@@ -69,4 +69,6 @@ src/
 ## Autores
 
 - Anthony Viveros
+- Victor Velasquez 
 # frontend-usuarios
+
